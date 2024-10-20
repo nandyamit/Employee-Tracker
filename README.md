@@ -6,8 +6,9 @@
 3. [Usage](#usage)
 4. [Database Schema](#database-schema)
 5. [Features](#features)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Video Demonstration](#video-demonstration)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Description
 
@@ -75,6 +76,21 @@ The database consists of three tables:
 - Delete departments, roles, and employees
 - View the total utilized budget of a department
 
+## Video Demonstration
+
+To see the Employee Tracker in action, check out our video demonstration:
+
+[Employee Tracker Demo](Video Demo.mp4)
+
+This video walks through the entire application, demonstrating how to:
+- Start the application
+- View all departments, roles, and employees
+- Add a department, role, and employee
+- Update an employee's role
+- Delete data from the database
+- View employees by manager and department
+- Calculate the total utilized budget of a department
+
 ## Contributing
 
 Contributions to the Employee Tracker project are welcome. Please ensure to update tests as appropriate.
@@ -88,6 +104,3 @@ Contributions to the Employee Tracker project are welcome. Please ensure to upda
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-If you have any questions about the project, please feel free to reach out: GitHub: https://github.com/nandyamit Email: nandyamit.in@gmail.com
