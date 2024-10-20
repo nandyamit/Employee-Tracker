@@ -80,7 +80,7 @@ The database consists of three tables:
 
 To see the Employee Tracker in action, check out our video demonstration:
 
-[Employee Tracker Demo](Video Demo.mp4)
+[Employee Tracker Demo](https://github.com/nandyamit/Employee-Tracker/blob/main/Video%20Demo.mp4)
 
 This video walks through the entire application, demonstrating how to:
 - Start the application
